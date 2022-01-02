@@ -10,5 +10,5 @@ spring:
     config:
       server:
         git:
-          uri: https://gitlab.com/spring-microservice-basic-boilerplate/config-server
+          uri: https://gitlab.com/spring-microservice-basic-boilerplate/cloud-configuration
           clone-on-start: true
